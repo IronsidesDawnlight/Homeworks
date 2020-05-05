@@ -20,7 +20,7 @@ Where the following gates are supported (capitalization doesn't matter):
 'BUF': 1 input
 
 These formats are all valid:
-'X5=AND(X1,X2,X3);
+'X5=AND(X1,X2,X3);'
 'X5 = AND(X1, X2, X3)'
 'X5=AND( X1,X2,X3 )'
 
